@@ -16,6 +16,11 @@ Cleaning and preparing the data involved:
 ### Visualization
 Results were visualized using Tableau.
 
+## What Questions Need Answered?
+ - What styles of beer are most popular?
+ - Are popular beers more sweet, bitter, or sour?
+ - Do consumers enjoy higher abv compared to lower abv?
+
 ## Cleaning & Preparing 
 After loading the Beer_Profile_And_Ratings.csv into Excel, some initial adjustments were made.
 
@@ -33,29 +38,4 @@ Only include the secondary, "sub" style in second new column.
 
 The original style column was removed after copy/pasting as values for the new main and sub style columns.
 ## Importing, Querying, Analyzing in SQL
-Created the table in PostgreSQL server.
-```
-create table public."BeerProfileAndReviews"
-("Name" varchar (250), main_style varchar (100), sub_style varchar (100), Brewery varchar (250),	
- ABV NUMERIC (5), MinIBU INT, MaxIBU INT , Astringency INT,
- Body INT, Alcohol INT,	Bitter INT, Sweet INT,
- Sour INT, Salty INT, Fruits INT, Hoppy INT, Spices INT,
- Malty INT, ReviewAroma decimal (9,3), ReviewAppearance decimal (9,3), 
- ReviewPalate decimal (9,3), ReviewTaste decimal (9,3), 
- ReviewOverall decimal (9,3), NumberOfReviews NUMERIC (10));
-```
-Loaded the csv file into SQL server.
-```
-COPY public."BeerProfileAndReviews" FROM '/private/tmp/beer_profile_and_ratings.csv'
-DELIMITER ',' csv header ;
-```
-The initial query to determine how many different main styles
-```
-select "main_style",
-AVG(reviewoverall) as reviewoverall_avg
-from public."BeerProfileAndReviews"
-where numberofreviews>=500
-GROUP BY "main_style"
-ORDER BY reviewoverall_avg desc
-LIMIT 50;
-```
+For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.com/chrisbw3/gulp/tree/d5c409b881a776555d7124ae715693722ccf5d77/Assets).
