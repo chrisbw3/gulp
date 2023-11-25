@@ -18,8 +18,26 @@ Results were visualized using Tableau.
 
 ## What Questions Need Answered?
  - What styles of beer are most popular?
- - Are popular beers more sweet, bitter, or sour?
  - Do consumers enjoy higher abv compared to lower abv?
+ - What style beers should you avoid buying?
+
+## Key Findings
+### Europe dominated when it came down to what beers were most well-received.
+This may not come as a surprise, given Europe's history with the alcoholic beverage is naturally older than the West. These are styles not commonly seen from the macro-breweries like Anheuser Busch or Coors.
+
+![](https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/top_10_styles.png)
+
+### There was a correlation between higher ABV and higher reviews.
+This is logical as most of the top 10 styles are historically brewed as higher ABV percentages.
+
+<img src="https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/abv_by_rating.png" width="1100" height="500"/>
+
+### What kinds of beer should be avoided?
+The answer to this is, frankly, none of them. While looking at the top 10 worst-rated beers, even the worst still received an average 3.4/5 rating. While there's certainly room for improvement, nonotable styles have an average rating below this modest figure.
+
+![](https://github.com/chrisbw3/gulp/blob/b4b457e528d6ef6b2bc29cb542d3b88d5a086ad1/Assets/10_worst_beers.png)
+
+
 
 ## Cleaning & Preparing 
 After loading the Beer_Profile_And_Ratings.csv into Excel, some initial adjustments were made.
