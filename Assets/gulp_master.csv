@@ -1,0 +1,852 @@
+﻿Name,main_style,sub_style,brewery,abv,minibu,maxibu,astringency,body,alcohol,bitter,sweet,sour,salty,fruits,hoppy,spices,malty,reviewaroma,reviewappearance,reviewpalate,reviewtaste,reviewoverall,numberofreviews
+Cable Car,Wild Ale,N/A,The Lost Abbey,7,5,30,20,27,3,6,46,132,0,85,5,10,11,4.416,4.165,4.361,4.526,4.454,173
+Supplication,Wild Ale,N/A,Russian River Brewing Company,8,5,30,22,38,9,5,26,123,3,72,20,7,9,4.432,4.292,4.377,4.566,4.432,1053
+Temptation,Wild Ale,N/A,Russian River Brewing Company,8,5,30,42,29,7,10,53,138,4,79,20,1,20,4.351,4.277,4.331,4.458,4.395,847
+Beatification,Wild Ale,N/A,Russian River Brewing Company,6,5,30,28,21,15,10,40,171,0,77,15,3,14,4.405,4.131,4.332,4.496,4.335,352
+Consecration,Wild Ale,N/A,Russian River Brewing Company,10,5,30,31,28,13,10,51,109,0,97,9,9,16,4.366,4.091,4.284,4.474,4.297,844
+Juliet,Wild Ale,N/A,Goose Island Beer Co.,8,5,30,33,23,9,7,98,139,0,108,10,13,12,4.18,4.053,4.005,4.195,4.193,197
+Framboise De Amorosa,Wild Ale,N/A,The Lost Abbey,7,5,30,49,28,7,2,115,154,3,110,11,9,30,4.341,3.937,4.102,4.287,4.189,167
+Apricot Ale,Wild Ale,N/A,Cascade Brewing / Raccoon Lodge & Brewpub,9,5,30,48,26,4,2,111,196,3,115,8,4,12,4.209,4.108,4.126,4.187,4.155,139
+Cuvee De Tomme,Wild Ale,N/A,The Lost Abbey,11,5,30,24,36,32,6,75,104,0,83,4,11,41,4.312,3.79,3.955,4.362,4.132,322
+Maracaibo Especial,Wild Ale,N/A,Jolly Pumpkin Artisan Ales,8,5,30,29,59,13,34,54,139,0,59,12,35,55,4.054,4.127,3.956,4.038,3.986,252
+Friek,Wild Ale,N/A,Odell Brewing Company,7,5,30,23,27,5,8,87,100,5,123,10,2,16,4.063,3.692,3.808,3.971,3.938,104
+Samuel Adams Stony Brook Red (Barrel Room Collection)Boston Beer Company (Samuel Adams),Wild Ale,N/A,Boston Beer Company (Samuel Adams),9,5,30,18,21,16,4,50,101,1,62,5,3,37,3.916,3.886,3.911,3.866,3.871,101
+Fantôme Saison,Farmhouse Ale,Saison,Brasserie Fantôme,8,20,38,28,41,14,18,66,113,1,103,27,46,32,4.323,4.183,4.227,4.404,4.363,688
+Saison-Brett,Farmhouse Ale,Saison,Boulevard Brewing Co.,9,20,38,45,44,29,43,72,144,3,108,72,47,43,4.274,4.377,4.215,4.315,4.31,453
+Hennepin,Farmhouse Ale,Saison,Brewery Ommegang,8,20,38,25,27,23,28,39,59,1,76,43,48,37,4.077,4.237,4.128,4.219,4.25,1866
+Saison Dupont,Farmhouse Ale,Saison,Brasserie Dupont sprl,7,20,38,30,39,12,25,22,55,3,44,47,23,19,4.079,4.264,4.129,4.182,4.231,1277
+Sofie,Farmhouse Ale,Saison,Goose Island Beer Co.,7,20,38,24,29,18,20,31,102,0,90,32,39,29,4.096,4.036,4.032,4.148,4.195,591
+Avec Les Bons Voeux,Farmhouse Ale,Saison,Brasserie Dupont sprl,10,20,38,18,35,46,25,56,70,0,76,46,62,65,4.162,4.294,4.234,4.229,4.19,500
+Abbaye De Saint Bon-ChienBFM (Brasserie des Franches-Montagnes),Farmhouse Ale,BièredeGarde,BFM Brasserie Des Franches-Montagnes,11,20,30,30,27,27,6,60,113,0,74,5,6,19,4.342,3.911,4.106,4.345,4.184,174
+Sorachi Ace,Farmhouse Ale,Saison,Brooklyn Brewery,7,20,38,20,31,12,33,31,83,0,83,43,26,31,4.082,4.147,4.109,4.106,4.161,372
+Interlude,Farmhouse Ale,Saison,Allagash Brewing Company,11,20,38,36,31,25,10,97,122,9,108,20,7,32,4.238,4.075,4.145,4.254,4.148,362
+Perdition,Farmhouse Ale,BièredeGarde,Russian River Brewing Company,6,20,30,23,33,16,20,56,62,0,54,43,20,58,3.904,4.056,4.041,4.064,4.123,171
+Tank 7,Farmhouse Ale,Saison,Boulevard Brewing Co.,9,20,38,16,37,23,39,34,70,4,86,58,30,17,4.064,4.158,4.022,4.111,4.12,415
+Bière De Mars,Farmhouse Ale,BièredeGarde,Jolly Pumpkin Artisan Ales,7,20,30,39,28,12,9,75,172,0,90,15,8,31,4.165,4.132,4.036,4.141,4.117,167
+Cellar Door,Farmhouse Ale,Saison,Stillwater Artisanal Ales,7,20,38,38,37,4,31,47,76,0,80,115,20,42,4.142,4.099,3.981,4.148,4.105,162
+Foret,Farmhouse Ale,Saison,Brasserie Dupont sprl,8,20,38,23,40,12,25,102,81,4,84,40,41,52,3.981,4.177,3.981,4.019,4.077,421
+"Fuego Del Otono, Autumn Fire",Farmhouse Ale,BièredeGarde,Jolly Pumpkin Artisan Ales,6,20,30,19,30,4,7,45,131,0,68,11,25,27,4.115,4.205,3.958,4.103,4.077,156
+Oro De Calabaza,Farmhouse Ale,BièredeGarde,Jolly Pumpkin Artisan Ales,8,20,30,25,31,12,9,55,143,0,101,20,35,15,4.11,4.19,3.996,4.143,4.067,563
+Carnevale,Farmhouse Ale,Saison,The Lost Abbey,8,20,38,31,39,13,37,55,90,2,80,53,42,50,3.985,3.963,3.877,3.978,4.067,231
+Stateside Saison,Farmhouse Ale,Saison,Stillwater Artisanal Ales,7,20,38,37,46,6,39,65,85,3,86,75,36,54,3.967,4.096,3.967,3.993,4.043,151
+Castelain Blond Biere De Garde,Farmhouse Ale,BièredeGarde,Brasserie Castelain,6,20,30,36,41,26,19,101,62,2,63,40,15,88,3.746,3.96,3.857,3.839,4.027,112
+Red Barn Ale,Farmhouse Ale,Saison,The Lost Abbey,7,20,38,15,19,12,20,39,81,1,74,33,57,24,3.986,4.128,3.968,3.998,4.02,324
+Southampton Biere De Mars,Farmhouse Ale,BièredeGarde,Southampton Publick House,7,20,30,23,36,14,17,103,69,3,71,36,36,105,3.812,3.951,3.948,3.935,4.003,162
+Bam Bière,Farmhouse Ale,Saison,Jolly Pumpkin Artisan Ales,5,20,38,37,24,5,17,55,170,3,132,40,21,25,3.977,4.139,3.849,3.911,3.996,548
+Le Merle,Farmhouse Ale,Saison,North Coast Brewing Co.,8,20,38,19,33,11,18,68,101,3,96,26,50,28,3.931,4.021,3.845,3.901,3.953,384
+Bière De Mars,Farmhouse Ale,BièredeGarde,Brewery Ommegang,7,20,30,45,37,16,27,77,156,2,102,64,33,49,3.931,3.969,3.801,3.824,3.941,261
+Helios (V Saison),Farmhouse Ale,Saison,Victory Brewing Company,8,20,38,26,39,19,29,31,69,1,54,36,41,28,3.891,3.95,3.827,3.813,3.91,327
+St. Feuillien Saison,Farmhouse Ale,Saison,Brasserie St. Feuillien,7,20,38,21,38,7,25,65,75,1,88,63,40,51,3.79,3.982,3.844,3.875,3.884,112
+Sah'tea,Farmhouse Ale,Sahti,Dogfish Head Brewery,9,0,0,5,35,26,16,60,28,0,38,68,78,43,4.048,3.759,3.905,4.005,3.875,484
+Colette,Farmhouse Ale,Saison,Great Divide Brewing Company,7,20,38,18,34,15,15,32,62,0,51,29,44,32,3.788,3.809,3.783,3.79,3.869,267
+Avant Garde,Farmhouse Ale,BièredeGarde,The Lost Abbey,7,20,30,25,37,22,28,68,73,3,66,49,27,69,3.833,3.9,3.869,3.817,3.867,290
+Domaine DuPage French Style Country Ale,Farmhouse Ale,BièredeGarde,Two Brothers Brewing Company,6,20,30,13,34,7,29,53,17,0,18,47,12,69,3.673,3.732,3.782,3.793,3.845,422
+Rabbid Rabbit,Farmhouse Ale,Saison,Three Floyds Brewing Co. & Brewpub,7,20,38,19,64,12,27,66,79,6,92,68,71,64,3.858,3.785,3.757,3.843,3.838,300
+Bam Noire,Farmhouse Ale,Saison,Jolly Pumpkin Artisan Ales,4,20,38,29,42,10,9,48,139,0,67,19,17,40,3.888,4.061,3.688,3.691,3.776,272
+Jenlain Ambrée,Farmhouse Ale,BièredeGarde,Brasserie Duyck,8,20,30,16,47,18,29,121,37,0,47,34,15,100,3.663,3.81,3.735,3.75,3.77,200
+Saison Du BUFF,Farmhouse Ale,Saison,Dogfish Head Brewery,7,20,38,26,32,12,22,15,29,0,21,146,35,26,4.015,4.031,3.812,3.841,3.749,239
+Pepe Nero Belgian Style Ale,Farmhouse Ale,Saison,Goose Island Beer Co.,6,20,38,18,39,16,21,75,52,0,67,14,41,51,3.707,3.882,3.735,3.772,3.737,283
+Gift Of The Magi,Farmhouse Ale,BièredeGarde,The Lost Abbey,12,20,30,21,32,57,39,77,63,3,60,61,25,50,3.896,3.888,3.8,3.81,3.722,255
+La Goudale,Farmhouse Ale,BièredeGarde,Les Brasseurs de Gayant,7,20,30,10,34,31,35,62,29,0,26,50,14,71,3.504,3.817,3.626,3.648,3.713,115
+Lammin Kataja Olut,Farmhouse Ale,Sahti,Lammin Sahti Oy,7,0,0,16,46,19,11,71,59,2,44,33,23,48,3.37,2.938,2.986,3.337,3.168,104
+Trappist Westvleteren 12 (XII)Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Quadrupel (Quad),N/A,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),10,25,50,5,44,49,14,86,21,0,53,5,12,57,4.583,4.454,4.633,4.719,4.618,1272
+Trappistes Rochefort 10,Quadrupel (Quad),N/A,Brasserie de Rochefort,11,25,50,12,47,46,22,90,26,0,63,13,11,88,4.419,4.345,4.431,4.544,4.339,2170
+Abt 12,Quadrupel (Quad),N/A,Brouwerij St. Bernardus NV,10,25,50,17,57,59,24,117,44,0,85,27,30,84,4.318,4.362,4.368,4.487,4.328,2217
+Pannepot,Quadrupel (Quad),N/A,De Struise Brouwers,10,25,50,19,56,39,20,99,39,1,67,20,40,62,4.291,4.255,4.313,4.418,4.269,655
+Pannepot Reserva,Quadrupel (Quad),N/A,De Struise Brouwers,10,25,50,13,59,35,21,108,30,0,84,7,16,73,4.161,4.079,4.229,4.351,4.24,258
+Grand Cru,Quadrupel (Quad),N/A,Brasserie de l'Abbaye du Val-Dieu,11,25,50,8,53,42,21,135,34,0,80,14,21,58,4.018,4.193,4.211,4.241,4.127,114
+Bourbon Barrel Quad Barrel-Aged Ale (BBQ),Quadrupel (Quad),N/A,Boulevard Brewing Co.,11,25,50,10,46,94,13,88,28,0,76,11,26,84,4.199,4.088,4.042,4.272,4.085,347
+Christmas Ale,Quadrupel (Quad),N/A,Brouwerij St. Bernardus NV,10,25,50,13,40,36,15,110,35,0,80,19,54,52,4.116,4.225,4.089,4.206,4.07,451
+Terrible,Quadrupel (Quad),N/A,Unibroue,11,25,50,9,74,55,14,117,28,0,81,8,34,80,4.097,4.122,4.068,4.223,4.068,813
+Three Philosophers,Quadrupel (Quad),N/A,Brewery Ommegang,10,25,50,20,36,50,15,103,44,1,98,10,6,61,4.094,4.166,4.068,4.153,3.989,1683
+The Sixth Glass Quadrupel Ale,Quadrupel (Quad),N/A,Boulevard Brewing Co.,10,25,50,10,44,51,14,112,44,0,81,8,29,57,4.013,4.127,3.997,4.061,3.976,434
+La Trappe Quadrupel (Koningshoeven / Dominus),Quadrupel (Quad),N/A,Bierbrouwerij De Koningshoeven B.V.,10,25,50,6,43,39,15,120,27,2,93,14,38,86,4.07,4.077,4.052,4.113,3.965,725
+Urthel SamaranthDe Leyerth Brouwerijen (Urthel),Quadrupel (Quad),N/A,De Leyerth Brouwerijen (Urthel),12,25,50,11,60,53,26,138,34,0,79,16,18,76,3.918,4.036,4.005,4.071,3.954,294
+Malheur 12°,Quadrupel (Quad),N/A,Brouwerij De Landtsheer NV,12,25,50,6,51,46,15,97,38,0,61,16,17,50,4.012,4.035,3.997,4.106,3.935,170
+V-Twelve,Quadrupel (Quad),N/A,Victory Brewing Company,12,25,50,6,48,65,24,110,34,0,83,28,24,40,4.026,4.008,4.037,4.104,3.908,532
+Kasteel Donker,Quadrupel (Quad),N/A,Brouwerij Van Honsebrouck N.V.,11,25,50,6,54,33,13,116,33,0,71,17,24,68,3.993,3.954,4.046,4.09,3.829,304
+Ichor,Quadrupel (Quad),N/A,Sly Fox Brewing Company,10,25,50,11,62,60,16,180,50,0,115,24,35,72,3.934,3.726,3.748,3.971,3.792,137
+Rigor Mortis Abt,Quadrupel (Quad),N/A,Brasserie Dieu Du Ciel,11,25,50,7,55,59,26,170,54,1,97,25,20,110,3.868,3.843,3.889,3.939,3.785,261
+The Reverend,Quadrupel (Quad),N/A,Avery Brewing Company,10,25,50,6,48,59,21,129,41,0,86,18,20,71,3.814,3.832,3.816,3.856,3.733,734
+Judgment Day,Quadrupel (Quad),N/A,The Lost Abbey,11,25,50,5,45,63,25,119,35,0,84,19,19,69,3.886,3.773,3.739,3.886,3.706,328
+Blasphemy,Quadrupel (Quad),N/A,Weyerbacher Brewing Co.,12,25,50,9,52,94,16,98,29,0,59,11,29,60,3.961,3.843,3.835,3.97,3.705,254
+Quad,Quadrupel (Quad),N/A,Weyerbacher Brewing Co.,12,25,50,12,43,56,11,91,26,0,75,10,23,45,3.819,3.756,3.79,3.803,3.664,457
+Kasteel Rouge,Quadrupel (Quad),N/A,Brouwerij Van Honsebrouck N.V.,8,25,50,11,30,38,8,91,36,1,92,8,3,29,3.867,3.883,3.698,3.73,3.643,283
+Smuttynose Gravitation (Big Beer Series),Quadrupel (Quad),N/A,Smuttynose Brewing Company,13,25,50,10,47,77,12,155,51,0,124,22,35,49,3.697,3.731,3.663,3.622,3.526,251
+Hop Rod Rye,Rye Beer,N/A,Bear Republic Brewing Co.,8,10,80,11,51,19,66,47,28,0,27,107,40,132,4.21,4.296,4.226,4.342,4.217,1913
+Red's Rye IPA,Rye Beer,N/A,Founders Brewing Company,7,10,80,6,22,7,36,30,16,0,15,52,27,85,4.167,4.186,4.105,4.258,4.209,1405
+Cane And Ebel,Rye Beer,N/A,Two Brothers Brewing Company,7,10,80,16,39,17,48,59,22,0,28,59,24,101,4.026,4.087,4.014,4.169,4.09,558
+Rye-on-Rye,Rye Beer,N/A,Boulevard Brewing Co.,12,10,80,11,52,102,18,71,14,1,19,11,28,161,4.172,4.168,4.118,4.218,4.038,131
+Full Moon Pale Rye Ale,Rye Beer,N/A,Real Ale Brewing Company,6,10,80,10,48,8,58,39,39,0,42,71,13,111,3.672,3.762,3.765,3.823,3.948,300
+Sky High Rye,Rye Beer,N/A,Arcadia Brewing Company,6,10,80,20,37,9,64,41,64,0,76,100,36,120,3.771,3.898,3.813,3.87,3.923,142
+RastafaRye Ale,Rye Beer,N/A,Blue Point Brewing Company,8,10,80,18,37,4,43,52,18,0,38,73,24,99,3.717,3.963,3.818,3.837,3.896,187
+Samuel Adams Revolutionary Rye AleBoston Beer Company (Samuel Adams),Rye Beer,N/A,Boston Beer Company (Samuel Adams),6,10,80,20,44,11,40,40,22,0,22,61,15,141,3.454,3.849,3.64,3.506,3.649,239
+Route Des Épices,Rye Beer,N/A,Brasserie Dieu Du Ciel,5,10,80,8,42,16,17,51,12,1,18,15,105,130,3.702,3.8,3.763,3.768,3.47,312
+Reissdorf Kölsch,Kölsch,N/A,Brauerei Heinrich Reissdorf,5,18,25,36,34,4,32,22,9,8,7,58,12,87,3.591,3.788,3.807,3.848,4.101,514
+Karnival Kolsch,Kölsch,N/A,Stoudts Brewing Co.,5,18,25,39,38,10,41,26,35,1,42,69,12,69,3.694,3.897,3.905,3.866,4.082,116
+Sünner Kölsch,Kölsch,N/A,Gebr. Sünner GmbH & Co. KG,5,18,25,37,32,12,34,33,30,3,39,71,4,69,3.608,3.703,3.746,3.733,4.052,116
+Gaffel Kölsch,Kölsch,N/A,Privatbrauerei Gaffel Becker & Co.,5,18,25,32,25,6,29,19,18,1,16,50,2,45,3.428,3.692,3.697,3.621,3.938,284
+Fancy Lawnmower,Kölsch,N/A,Saint Arnold Brewing Company,5,18,25,31,20,11,29,30,26,1,17,51,0,27,3.371,3.48,3.636,3.581,3.925,221
+Full Circle,Kölsch,N/A,New Holland Brewing Company,5,18,25,39,44,9,25,41,29,5,29,36,4,53,3.481,3.529,3.704,3.638,3.881,206
+Summertime,Kölsch,N/A,Goose Island Beer Co.,5,18,25,28,33,7,33,38,37,1,45,54,4,57,3.409,3.508,3.522,3.54,3.857,417
+Geary's Summer Ale,Kölsch,N/A,D.L. Geary Brewing Company,6,18,25,29,55,17,50,47,41,0,30,76,7,88,3.494,3.669,3.663,3.672,3.741,166
+Samuel Adams East-West KölschBoston Beer Company (Samuel Adams),Kölsch,N/A,Boston Beer Company (Samuel Adams),5,18,25,30,39,4,42,38,24,5,32,74,11,74,3.524,3.717,3.785,3.679,3.705,249
+Curve Ball Blonde Ale,Kölsch,N/A,"Pyramid Breweries, Inc.",5,18,25,19,27,3,32,33,25,3,33,50,2,72,3.143,3.215,3.255,3.235,3.53,200
+Saranac Kölsch,Kölsch,N/A,Matt Brewing Company,5,18,25,35,42,8,32,52,35,5,41,50,3,71,3.07,3.411,3.321,3.132,3.467,151
+Trappist Westvleteren 8 (VIII)Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Dubbel,N/A,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),8,15,30,15,54,23,37,115,25,0,77,48,22,75,4.426,4.416,4.495,4.553,4.514,707
+Pater 6,Dubbel,N/A,Brouwerij St. Bernardus NV,7,15,30,20,46,23,15,84,30,1,62,7,22,64,4.033,4.164,4.031,4.121,4.168,556
+Westmalle Trappist Dubbel,Dubbel,N/A,Brouwerij Westmalle,7,15,30,24,47,39,23,113,49,0,89,33,31,92,4.077,4.182,4.059,4.146,4.144,1026
+Maudite,Dubbel,N/A,Unibroue,8,15,30,12,29,16,10,56,23,0,46,12,27,59,4.089,4.105,4.09,4.237,4.138,1730
+Trappistes Rochefort 6,Dubbel,N/A,Brasserie de Rochefort,8,15,30,15,50,17,25,114,36,0,83,32,24,82,4.075,4.067,4.009,4.121,4.137,763
+Prior 8,Dubbel,N/A,Brouwerij St. Bernardus NV,8,15,30,16,33,14,27,96,30,1,75,15,17,84,4.095,4.171,4.132,4.198,4.116,870
+Trappist Achel 8° Bruin,Dubbel,N/A,Brouwerij der St. Benedictusabdij de Achelse,8,15,30,17,36,29,20,97,44,0,70,19,24,53,4.031,4.241,4.022,4.113,4.106,359
+Première (Red),Dubbel,N/A,Bières de Chimay S.A.,7,15,30,9,38,17,15,120,32,0,71,20,39,81,4.016,4.075,4.03,4.112,4.083,1485
+Abbey Ale,Dubbel,N/A,Brewery Ommegang,8,15,30,12,38,25,13,90,26,0,73,15,28,73,4.095,4.254,4.051,4.161,4.045,1546
+Brune,Dubbel,N/A,Brasserie de l'Abbaye du Val-Dieu,8,15,30,9,48,28,26,109,38,0,47,20,16,80,3.905,4.168,3.972,4.035,4.035,158
+Abbey,Dubbel,N/A,New Belgium Brewing,7,15,30,12,47,16,25,103,37,1,86,31,24,85,4.021,4.058,3.934,4.019,3.989,640
+Corsendonk Pater / Abbey Brown Ale,Dubbel,N/A,Brouwerij Corsendonk,8,15,30,23,40,15,31,107,43,0,67,22,20,102,3.943,4.117,3.913,4.036,3.985,548
+Resurrection,Dubbel,N/A,The Brewer's Art,7,15,30,14,35,26,25,81,27,2,35,38,27,66,3.779,4.004,3.917,3.975,3.971,120
+Lost & Found,Dubbel,N/A,The Lost Abbey,8,15,30,11,42,30,23,120,21,0,82,18,33,85,3.984,3.886,3.861,3.982,3.917,284
+La Trappe Dubbel (Koningshoeven / Dominus),Dubbel,N/A,Bierbrouwerij De Koningshoeven B.V.,7,15,30,6,52,18,17,120,30,0,70,21,27,83,3.897,3.935,3.835,3.951,3.899,360
+Père Jacques,Dubbel,N/A,Goose Island Beer Co.,9,15,30,8,44,18,22,106,20,0,67,13,15,79,3.898,3.787,3.875,3.971,3.892,684
+St. Sebastiaan Dark,Dubbel,N/A,Brouwerij Sterkens N.V.,7,15,30,13,53,24,16,108,38,1,82,28,16,82,3.85,3.945,3.759,3.895,3.85,110
+St. Feuillien Brune,Dubbel,N/A,Brasserie St. Feuillien,9,15,30,10,57,32,22,124,41,2,73,21,18,85,3.835,3.883,3.757,3.786,3.83,103
+St. Vincent's Dubbel,Dubbel,N/A,Captain Lawrence Brewing Co.,8,15,30,20,65,32,13,95,66,0,67,25,30,97,3.8,4.027,3.809,3.827,3.827,110
+Dubbel Ale,Dubbel,N/A,Allagash Brewing Company,7,15,30,17,31,6,11,80,35,1,48,17,23,66,3.747,3.938,3.743,3.768,3.826,717
+Ovila Abbey Barrel Aged Dubbel,Dubbel,N/A,Sierra Nevada Brewing Co.,9,15,30,22,42,60,17,99,36,0,56,15,26,91,3.689,3.911,3.829,3.833,3.816,359
+Grimbergen Dubbel,Dubbel,N/A,Brouwerij Alken-Maes,7,15,30,9,42,11,20,100,31,0,52,16,10,66,3.678,3.964,3.659,3.762,3.751,446
+Affligem Dubbel,Dubbel,N/A,Brouwerij De Smedt / Brouwerij Affligem,7,15,30,9,30,12,17,60,29,0,38,14,17,39,3.796,3.981,3.745,3.745,3.751,265
+Sterkens Dubbel Ale,Dubbel,N/A,Brouwerij Sterkens N.V.,7,15,30,8,55,31,16,133,36,0,81,32,22,80,3.667,3.609,3.589,3.671,3.69,129
+Bornem Double,Dubbel,N/A,Brouwerij Van Steenberge N.V.,8,15,30,10,44,15,19,100,25,0,56,15,22,72,3.679,3.996,3.588,3.644,3.658,382
+Abbey Ale,Dubbel,N/A,Abita Brewing Co.,8,15,30,4,39,12,12,82,43,0,54,16,39,78,3.638,3.892,3.635,3.611,3.619,189
+Brother David's Belgian-style Double Ale,Dubbel,N/A,Anderson Valley Brewing Company,9,15,30,11,58,43,33,145,50,1,90,42,40,104,3.658,3.638,3.555,3.579,3.538,253
+CBS (Canadian Breakfast Stout),Stout,AmericanImperial,Founders Brewing Company,11,50,80,3,116,57,47,112,4,1,8,18,21,150,4.558,4.458,4.579,4.697,4.591,637
+The Abyss,Stout,AmericanImperial,Deschutes Brewery,11,50,80,20,82,28,64,65,8,0,30,18,7,115,4.443,4.593,4.513,4.588,4.451,1412
+Parabola,Stout,RussianImperial,Firestone Walker Brewing Co.,13,50,90,7,74,66,33,62,6,0,18,11,20,105,4.389,4.288,4.396,4.545,4.422,595
+KBS (Kentucky Breakfast Stout),Stout,AmericanImperial,Founders Brewing Company,12,50,80,9,114,102,79,77,4,0,4,31,20,183,4.57,4.377,4.48,4.626,4.398,1932
+Hunahpu's Imperial Stout,Stout,AmericanImperial,Cigar City Brewing,10,50,80,5,69,21,42,52,9,0,17,3,90,79,4.369,4.587,4.512,4.564,4.366,429
+Breakfast Stout,Stout,Oatmeal,Founders Brewing Company,8,20,40,11,96,23,95,62,1,0,3,22,12,165,4.412,4.365,4.388,4.501,4.355,2502
+Speedway Stout - Bourbon Barrel-Aged,Stout,AmericanImperial,AleSmith Brewing Company,12,50,80,10,68,63,60,70,12,0,11,16,12,147,4.5,4.326,4.392,4.493,4.354,213
+Bourbon County Brand Coffee Stout,Stout,AmericanImperial,Goose Island Beer Co.,13,50,80,6,65,28,82,48,3,0,8,9,26,143,4.556,4.257,4.474,4.621,4.318,456
+Sexual Chocolate - Barrel-Aged,Stout,RussianImperial,Foothills Brewing Company,10,50,90,3,115,63,35,77,5,1,11,11,9,146,4.426,4.254,4.176,4.408,4.316,136
+BBADL (Bourbon Barrel Aged Dark Lord Imperial Stout),Stout,RussianImperial,Three Floyds Brewing Co. & Brewpub,15,50,90,2,66,53,15,78,8,0,15,2,12,85,4.577,4.458,4.606,4.592,4.303,142
+Darkness,Stout,RussianImperial,Surly Brewing Company,12,50,90,13,122,30,107,118,31,0,80,74,30,163,4.313,4.543,4.473,4.426,4.3,646
+Ivan The Terrible Imperial Stout - Barrel-Aged,Stout,RussianImperial,Big Sky Brewing Company,12,50,90,16,83,88,55,71,16,0,38,43,33,153,4.296,4.318,4.174,4.373,4.294,201
+Blackout Stout - Barrel-Aged,Stout,RussianImperial,Great Lakes Brewing Company,10,50,90,4,72,44,17,51,11,0,8,3,18,78,4.367,4.125,4.221,4.455,4.285,267
+Speedway Stout,Stout,AmericanImperial,AleSmith Brewing Company,12,50,80,8,97,31,62,67,1,0,7,16,14,133,4.329,4.404,4.378,4.441,4.284,1134
+Yeti,Stout,AmericanImperial,Great Divide Brewing Company,10,50,80,16,120,30,137,83,16,0,10,105,10,146,4.26,4.267,4.345,4.399,4.275,129
+Obsidian Stout,Stout,American,Deschutes Brewery,6,35,60,9,72,23,95,72,12,0,13,67,6,132,4.078,4.305,4.121,4.267,4.25,776
+Oatmeal StoutSamuel Smith Old Brewery (Tadcaster),Stout,Oatmeal,Samuel Smith Old Brewery (Tadcaster),5,20,40,8,95,8,50,90,12,0,32,42,14,123,4.018,4.251,4.2,4.267,4.241,2025
+Zonker Stout,Stout,Foreign/Export,Snake River Brewing Company & Brewpub,6,30,70,17,109,11,80,68,13,0,9,38,14,141,4.128,4.223,4.118,4.208,4.238,200
+Chocolate Rain,Stout,AmericanImperial,The Bruery,20,50,80,6,82,51,27,69,7,0,14,5,25,88,4.481,4.08,4.113,4.396,4.236,106
+Brewhouse Coffee Stout,Stout,American,Central Waters Brewing Company,7,35,60,14,111,14,121,72,6,0,10,32,13,192,4.313,4.047,4.083,4.291,4.228,318
+Black Tuesday,Stout,AmericanImperial,The Bruery,20,50,80,3,70,95,25,106,17,1,43,3,30,126,4.478,4.302,4.4,4.51,4.21,381
+Imperial Stout Trooper,Stout,RussianImperial,New England Brewing Co.,9,50,90,9,115,20,39,68,11,0,26,15,13,111,4.105,4.296,4.217,4.258,4.194,389
+Shakespeare Oatmeal Stout,Stout,Oatmeal,Rogue Ales,6,20,40,15,111,9,78,65,11,0,14,49,16,152,4.099,4.34,4.154,4.255,4.188,1560
+Bourbon County Brand Vanilla Stout,Stout,AmericanImperial,Goose Island Beer Co.,15,50,80,7,111,68,33,74,3,1,4,16,79,133,4.43,4.147,4.343,4.413,4.185,306
+Big Bear Black Stout,Stout,AmericanImperial,Bear Republic Brewing Co.,8,50,80,11,73,20,64,54,13,0,19,49,8,98,4.068,4.252,4.074,4.188,4.182,1003
+Valdez,Stout,American,Pisgah Brewing Co.,6,35,60,18,86,12,130,57,11,1,3,27,10,173,4.272,4.2,3.944,4.236,4.181,180
+Black Albert,Stout,RussianImperial,De Struise Brouwers,13,50,90,10,116,38,73,102,27,1,63,39,19,123,4.142,4.376,4.236,4.282,4.18,724
+Blackout Stout,Stout,RussianImperial,Great Lakes Brewing Company,10,50,90,6,82,20,63,54,12,0,12,36,4,89,4.144,4.144,4.146,4.288,4.176,957
+Aphrodisiaque,Stout,American,Brasserie Dieu Du Ciel,7,35,60,7,112,20,62,63,7,2,13,32,49,108,4.293,4.142,3.998,4.223,4.174,440
+B.O.R.I.S. The Crusher,Stout,RussianImperial,Hoppin' Frog Brewery,9,50,90,6,134,30,68,114,22,1,36,27,15,155,4.164,4.152,4.291,4.313,4.174,834
+Beer Geek Brunch Weasel,Stout,AmericanImperial,Mikkeller ApS,11,50,80,11,109,23,93,92,15,1,28,19,19,174,4.24,4.352,4.31,4.36,4.173,600
+Imperial StoutSamuel Smith Old Brewery (Tadcaster),Stout,RussianImperial,Samuel Smith Old Brewery (Tadcaster),7,50,90,11,92,25,54,112,30,2,61,31,15,119,4.12,4.3,4.135,4.228,4.167,1600
+Wake-n-Bake Coffee Oatmeal Imperial Stout,Stout,Oatmeal,Terrapin Beer Company,9,20,40,13,107,23,114,78,10,0,10,47,21,209,4.225,4.126,4.148,4.271,4.166,916
+Ten FIDY,Stout,AmericanImperial,Oskar Blues Grill & Brew,11,50,80,4,101,27,62,88,10,1,15,29,9,137,4.141,4.397,4.35,4.32,4.165,1729
+Siberian Night Imperial Stout,Stout,RussianImperial,Thirsty Dog Brewing Company,10,50,90,10,106,23,77,77,6,0,13,47,16,119,4.12,4.18,4.132,4.23,4.164,740
+Old Rasputin,Stout,RussianImperial,North Coast Brewing Co.,9,50,90,11,87,18,68,49,9,0,17,23,11,102,4.298,4.395,4.194,4.353,4.155,129
+Ipswich Oatmeal Stout,Stout,Oatmeal,Ipswich Ale Brewery,7,20,40,7,125,5,77,75,2,0,8,48,7,160,4.122,4.231,4.132,4.212,4.151,337
+Dark Lord Imperial Stout,Stout,RussianImperial,Three Floyds Brewing Co. & Brewpub,15,50,90,5,85,24,48,102,16,0,26,5,27,110,4.375,4.408,4.473,4.411,4.146,1011
+Donnybrook Stout,Stout,IrishDry,Victory Brewing Company,4,30,40,19,94,5,39,24,3,0,2,22,7,63,3.556,4.207,3.905,3.789,4.138,116
+Stout,Stout,American,Sierra Nevada Brewing Co.,6,35,60,8,88,9,75,37,9,0,4,62,5,108,3.939,4.196,4.003,4.119,4.137,1230
+B.O.R.I.S. Oatmeal Imperial Stout - Barrel-Aged,Stout,Oatmeal,Hoppin' Frog Brewery,9,20,40,4,110,66,53,66,9,0,19,39,21,129,4.227,4.073,4.243,4.297,4.137,395
+Black Sun Stout,Stout,IrishDry,Three Floyds Brewing Co. & Brewpub,7,30,40,27,93,8,97,65,24,0,31,88,7,113,4.048,4.121,3.985,4.095,4.133,421
+Tsunami Stout,Stout,Foreign/Export,Pelican Pub & Brewery,7,30,70,17,84,9,52,61,12,0,16,28,7,97,4.005,4.278,4.06,4.162,4.13,108
+Dragonstooth Stout,Stout,Oatmeal,Elysian Brewing Company,8,20,40,8,132,24,105,60,17,0,18,52,10,171,3.96,4.143,4.056,4.083,4.128,223
+Miles Davis' Bitches Brew,Stout,AmericanImperial,Dogfish Head Brewery,9,50,80,22,76,14,53,82,33,4,29,33,17,111,4.034,4.244,4.071,4.148,4.125,609
+Moloko,Stout,Sweet/Milk,Three Floyds Brewing Co. & Brewpub,8,15,25,5,124,9,66,90,20,0,14,38,13,117,4.01,4.026,4.089,4.14,4.123,403
+Chocolate Stout,Stout,American,Rogue Ales,6,35,60,6,130,8,81,109,6,0,9,53,11,143,4.306,4.32,4.101,4.258,4.122,1810
+Black Metal Farmhouse Imperial Stout,Stout,RussianImperial,Jester King Craft Brewery,9,50,90,13,73,20,43,62,95,2,40,17,10,95,4.075,4.22,4.003,4.173,4.116,159
+Plead The 5th Imperial Stout,Stout,RussianImperial,Dark Horse Brewing Company,11,50,90,2,75,28,54,71,10,0,19,18,8,112,4.151,4.119,4.172,4.218,4.113,507
+Velvet Merkin,Stout,Oatmeal,Firestone Walker Brewing Co.,8,20,40,2,120,56,19,74,4,0,11,2,31,176,3.924,3.935,3.973,4.057,4.11,314
+Sexual Chocolate,Stout,RussianImperial,Foothills Brewing Company,10,50,90,6,113,16,79,89,18,2,30,30,14,141,4.08,4.26,4.097,4.15,4.109,361
+St-Ambroise Oatmeal Stout,Stout,Oatmeal,McAuslan Brewing,5,20,40,10,72,21,55,54,9,0,16,34,3,132,4.091,4.297,4.057,4.108,4.103,540
+Planet Bean,Stout,American,Spring House Brewing Company,7,35,60,24,105,9,133,46,9,0,8,16,5,173,4.421,4.119,3.743,4.124,4.099,101
+Double Stout,Stout,AmericanImperial,Green Flash Brewing Co.,9,50,80,13,119,26,85,61,6,0,17,50,14,115,3.994,4.248,4.068,4.129,4.093,446
+D.O.R.I.S. The Destroyer,Stout,RussianImperial,Hoppin' Frog Brewery,11,50,90,8,101,39,58,80,16,0,32,23,20,113,4.118,4.246,4.263,4.191,4.092,238
+Storm King Stout,Stout,AmericanImperial,Victory Brewing Company,9,50,80,6,70,11,101,46,16,0,26,84,9,95,4.071,4.304,4.138,4.212,4.091,2452
+Barney Flats Oatmeal Stout,Stout,Oatmeal,Anderson Valley Brewing Company,6,20,40,12,57,8,46,56,14,0,22,18,4,121,3.951,4.091,3.987,4.1,4.089,772
+Scottish Stout,Stout,English,Belhaven Brewery Company Ltd.,7,20,40,10,67,8,43,41,10,1,7,20,3,78,3.809,4.109,3.956,3.989,4.084,225
+Oak Aged Yeti Imperial Stout,Stout,AmericanImperial,Great Divide Brewing Company,10,50,80,16,85,30,43,72,10,0,17,19,18,105,4.218,4.453,4.262,4.284,4.084,1423
+Bourbon County Brand Stout,Stout,AmericanImperial,Goose Island Beer Co.,15,50,80,5,69,69,41,83,9,0,36,8,24,134,4.435,4.201,4.386,4.482,4.083,1710
+Imperial Stout,Stout,RussianImperial,Nøgne Ø - Det Kompromissløse Bryggeri A/S,9,50,90,11,94,19,77,77,11,1,27,27,14,126,4.064,4.324,4.081,4.15,4.07,421
+Choklat (Blackwater Series),Stout,AmericanImperial,Southern Tier Brewing Company,10,50,80,3,153,18,39,110,4,0,10,20,17,158,4.467,4.112,4.177,4.322,4.061,1198
+Fade To Black - Volume 1,Stout,Foreign/Export,Left Hand Brewing Company,9,30,70,20,70,18,104,42,9,1,12,57,44,129,4.047,4.05,3.988,4.136,4.06,258
+Guinness Foreign Extra Stout,Stout,Foreign/Export,Guinness Ltd.,8,30,70,20,120,27,99,97,24,0,35,50,16,154,3.94,4.3,4.025,4.082,4.057,682
+Espresso Oak Aged Yeti Imperial Stout,Stout,AmericanImperial,Great Divide Brewing Company,10,50,80,5,103,20,78,51,5,0,6,39,14,141,4.196,4.415,4.17,4.233,4.051,734
+Marshal Zhukov's Imperial Stout,Stout,RussianImperial,Cigar City Brewing,12,50,90,9,137,23,105,115,15,0,41,55,19,168,4.131,4.326,4.22,4.218,4.047,316
+Down 'N Dirty Chocolate Oatmeal Stout,Stout,Oatmeal,Tyranena Brewing Company,6,20,40,20,175,22,104,113,12,2,6,67,21,239,3.904,3.995,3.962,3.99,4.038,104
+Beer Geek Breakfast,Stout,Oatmeal,Mikkeller ApS,8,20,40,10,87,13,107,62,16,0,25,38,16,138,4.105,4.385,4.082,4.136,4.036,771
+Black Chocolate Stout,Stout,RussianImperial,Brooklyn Brewery,10,50,90,12,107,34,45,82,7,0,6,30,10,111,4.111,4.294,4.165,4.221,4.032,2447
+Mackeson Triple XXX Stout,Stout,Sweet/Milk,Whitbread PLC,5,15,25,7,102,5,39,72,14,1,4,25,7,87,3.992,4.177,4.011,4.118,4.03,590
+Beamish Irish Stout,Stout,IrishDry,Beamish & Crawford Plc.,4,30,40,23,62,3,31,17,3,0,1,14,6,51,3.515,4.276,3.795,3.798,4.027,606
+Heart Of Darkness,Stout,English,Magic Hat Brewing Company,6,20,40,15,101,6,52,72,13,1,18,40,2,99,4.023,4.073,3.809,4.042,4.023,131
+Brewer's Reserve Bourbon Barrel Stout,Stout,AmericanImperial,Central Waters Brewing Company,11,50,80,9,87,78,26,50,5,0,8,12,20,112,4.219,3.956,3.951,4.159,4.016,308
+Lion Stout,Stout,Foreign/Export,Ceylon / Lion Brewery Limited,9,30,70,4,81,22,46,73,10,0,11,12,7,104,3.9,4.154,3.94,4.032,4.015,802
+Moo-Hoo Chocolate Milk Stout,Stout,Sweet/Milk,Terrapin Beer Company,6,15,25,9,153,8,70,84,9,1,3,56,11,128,3.826,3.918,3.879,3.969,4.011,310
+Black Mocha Stout,Stout,American,Highland Brewing,5,35,60,18,79,5,66,59,2,0,2,18,5,139,3.862,3.948,3.78,3.97,4.01,363
+Black OPS,Stout,RussianImperial,Brooklyn Brewery,12,50,90,5,85,80,29,67,15,0,30,16,24,120,4.187,4.378,4.021,4.137,4.007,579
+The Poet,Stout,Oatmeal,New Holland Brewing Company,5,20,40,11,89,7,49,55,5,0,3,12,7,112,3.843,3.927,3.853,3.938,4,561
+O'Hara's Irish Stout,Stout,IrishDry,Carlow Brewing Company,4,30,40,21,73,6,76,39,8,0,9,43,6,115,3.773,4.106,3.784,3.874,3.993,432
+Dragoon's Irish Dry Stout,Stout,IrishDry,Moylan's Brewery,4,30,40,41,105,6,52,56,10,0,9,22,4,121,3.791,3.927,3.772,3.88,3.987,158
+Samuel Adams Cream StoutBoston Beer Company (Samuel Adams),Stout,Sweet/Milk,Boston Beer Company (Samuel Adams),5,15,25,6,89,5,58,55,9,1,5,21,4,86,3.907,4.054,3.835,3.955,3.985,1239
+Smuttynose Imperial Stout (Big Beer Series),Stout,RussianImperial,Smuttynose Brewing Company,11,50,90,7,95,13,92,69,12,0,23,63,7,114,4.039,4.207,4.046,4.08,3.971,635
+Tres Blueberry Stout,Stout,American,Dark Horse Brewing Company,8,35,60,9,69,5,47,138,11,0,90,25,11,92,4.126,4.084,3.911,4.027,3.964,466
+Oatis,Stout,Oatmeal,Ninkasi Brewing Company,7,20,40,12,96,10,67,61,10,0,18,38,15,142,3.88,3.975,3.757,3.947,3.958,142
+Mokah,Stout,AmericanImperial,Southern Tier Brewing Company,10,50,80,5,108,17,70,87,2,0,1,18,8,126,4.261,4,4.051,4.161,3.952,544
+Coffee Stout,Stout,American,New Glarus Brewing Company,6,35,60,15,83,11,95,47,14,0,10,23,7,139,3.828,3.915,3.685,3.881,3.95,329
+Murphy's Irish Stout,Stout,IrishDry,Murphy Brewery Ireland Limited,4,30,40,15,98,9,36,38,5,0,3,18,4,76,3.489,4.251,3.766,3.67,3.943,893
+Trader Joe's Stockyard Oatmeal Stout,Stout,Oatmeal,Trader Joe's Brewing Company,5,20,40,8,81,6,58,51,2,0,8,24,3,148,3.824,3.924,3.744,3.878,3.94,316
+Milk Stout,Stout,Sweet/Milk,Left Hand Brewing Company,6,15,25,7,110,7,48,56,14,0,4,28,4,95,3.784,3.804,3.806,3.946,3.936,1273
+San Quentin's Breakout Stout,Stout,Foreign/Export,Marin Brewing Company,7,30,70,15,87,17,63,56,9,0,8,23,9,129,3.927,4.056,3.748,3.88,3.932,117
+Milk Stout,Stout,Sweet/Milk,Lancaster Brewing Company,5,15,25,6,134,5,51,82,12,0,8,12,5,98,3.841,3.908,3.794,3.926,3.922,431
+Chocolate Oak Aged Yeti,Stout,AmericanImperial,Great Divide Brewing Company,10,50,80,15,138,25,66,98,5,0,11,39,48,137,4.073,4.373,4.112,4.101,3.921,587
+8 Ball Stout,Stout,Oatmeal,Lost Coast Brewery and Cafe,6,20,40,14,64,1,42,43,11,0,11,19,4,94,3.809,3.956,3.821,3.92,3.908,475
+Oatmeal Stout,Stout,Oatmeal,Goose Island Beer Co.,5,20,40,13,108,7,67,68,2,1,8,19,6,132,3.814,3.847,3.685,3.845,3.906,485
+Stout,Stout,Oatmeal,Alaskan Brewing Co.,6,20,40,8,100,11,63,81,12,1,16,33,11,159,3.691,3.746,3.68,3.731,3.903,175
+Too Cream Stout,Stout,Sweet/Milk,Dark Horse Brewing Company,8,15,25,20,126,13,83,79,15,2,16,30,21,132,3.936,3.907,3.835,3.886,3.891,312
+Cream Stout,Stout,Sweet/Milk,St. Peter's Brewery Co Ltd,7,15,25,5,135,9,71,101,8,0,17,44,12,119,3.848,3.892,3.841,3.929,3.883,567
+Old #38 Stout,Stout,IrishDry,North Coast Brewing Co.,5,30,40,21,74,10,54,49,6,0,8,35,13,94,3.822,3.915,3.711,3.823,3.883,575
+Imperial Stout,Stout,RussianImperial,Rogue Ales,11,50,90,18,144,37,127,82,16,1,24,102,25,164,4.124,4.334,4.2,4.154,3.88,833
+Dragonhead Stout,Stout,English,Orkney Brewery,4,20,40,21,105,23,91,76,16,2,21,50,46,144,3.879,4.073,3.545,3.745,3.879,157
+Milk Stout,Stout,Sweet/Milk,The Duck-Rabbit Craft Brewery,6,15,25,12,89,8,45,51,28,0,2,19,2,88,3.819,3.822,3.77,3.87,3.878,609
+Dark Truth,Stout,AmericanImperial,Boulevard Brewing Co.,10,50,80,8,88,21,54,76,18,0,39,32,18,112,3.813,4.266,3.833,3.906,3.878,366
+Captain Stout,Stout,American,Alpine Beer Company,6,35,60,20,79,6,62,59,9,0,9,31,9,114,3.784,3.926,3.672,3.833,3.877,102
+Rabid Duck,Stout,RussianImperial,The Duck-Rabbit Craft Brewery,10,50,90,10,126,28,103,73,3,0,13,55,13,127,4.044,4.138,3.943,3.979,3.877,442
+Black Fly Stout,Stout,IrishDry,Gritty McDuff's Brewing Company,4,30,40,26,89,10,61,28,11,0,3,37,11,103,3.727,4.003,3.664,3.839,3.874,183
+Mother's Milk Stout,Stout,Sweet/Milk,Keegan Ales,6,15,25,5,112,6,41,64,6,0,0,19,4,77,3.757,3.867,3.685,3.826,3.87,181
+Best Extra Stout,Stout,Foreign/Export,Coopers Brewery Limited,6,30,70,5,65,22,75,47,16,0,23,43,10,98,3.753,3.905,3.71,3.893,3.87,359
+Cappuccino Stout,Stout,AmericanImperial,Lagunitas Brewing Company,9,50,80,6,83,22,87,42,7,1,6,30,2,116,3.801,3.844,3.778,3.892,3.852,910
+Captain Swain's Extra Stout,Stout,Foreign/Export,Cisco Brewers Inc.,8,30,70,22,106,22,125,71,15,0,21,100,22,124,3.916,4.113,3.81,3.92,3.839,137
+Java Head Stout,Stout,Oatmeal,Tröegs Brewing Company,8,20,40,2,67,12,101,28,9,0,13,32,1,115,3.684,4.031,3.721,3.818,3.829,515
+One Oatmeal Stout,Stout,Oatmeal,Dark Horse Brewing Company,7,20,40,10,89,10,59,40,3,0,5,23,12,118,3.794,3.888,3.815,3.826,3.825,325
+Beer Geek Bacon,Stout,Oatmeal,Mikkeller ApS,8,20,40,13,57,15,84,32,11,3,10,25,102,111,3.991,4.271,3.894,3.859,3.815,216
+Love Stout,Stout,IrishDry,Yards Brewing Co.,6,30,40,8,94,6,62,47,6,2,3,26,6,104,3.729,3.972,3.622,3.76,3.809,144
+Out Of Bounds Stout,Stout,American,Avery Brewing Company,6,35,60,10,77,10,91,50,7,0,9,65,11,111,3.814,3.99,3.701,3.786,3.799,492
+Extra Export Stout,Stout,Foreign/Export,Brouwerij De Dolle Brouwers,9,30,70,10,63,20,45,82,40,0,44,14,11,94,3.907,4.106,3.801,3.971,3.783,362
+Northwind,Stout,RussianImperial,Two Brothers Brewing Company,9,50,90,6,76,15,47,63,16,0,35,36,12,98,3.652,3.874,3.679,3.745,3.781,333
+World Wide Stout,Stout,AmericanImperial,Dogfish Head Brewery,18,50,80,7,76,71,67,102,26,0,56,22,20,129,4.112,4.112,4.126,4.183,3.774,1447
+Chicory Stout,Stout,American,Dogfish Head Brewery,5,35,60,13,73,14,84,50,10,0,11,37,21,104,3.829,3.85,3.583,3.749,3.752,1240
+Wrasslers XXXX Stout,Stout,IrishDry,The Porterhouse Brewing Company,5,30,40,36,87,19,86,54,13,2,13,56,22,123,3.705,4.015,3.72,3.76,3.75,100
+Guinness Extra Stout (Original),Stout,IrishDry,Guinness Ltd.,6,30,40,29,80,12,59,50,15,0,9,34,4,96,3.609,4.109,3.715,3.749,3.739,1221
+Crème Brûlée Java Stout,Stout,American,Kuhnhenn Brewing Company,6,35,60,5,99,13,105,78,9,2,2,22,35,134,4.3,3.96,3.705,3.885,3.735,100
+Oatmeal Stout,Stout,Oatmeal,Breckenridge Brewery,5,20,40,18,102,6,75,56,6,1,7,39,9,151,3.664,3.931,3.601,3.67,3.733,430
+Oyster Stout,Stout,IrishDry,The Porterhouse Brewing Company,5,30,40,17,84,14,51,68,6,14,12,39,10,107,3.613,3.804,3.658,3.667,3.732,168
+Samuel Adams Imperial StoutBoston Beer Company (Samuel Adams),Stout,RussianImperial,Boston Beer Company (Samuel Adams),9,50,90,11,101,35,67,82,21,0,28,22,20,139,3.815,4.165,3.844,3.827,3.721,720
+Three Feet Deep,Stout,IrishDry,Furthermore Beer,6,30,40,33,73,7,46,34,13,0,4,22,61,87,3.766,3.925,3.631,3.687,3.706,107
+Guinness Draught,Stout,IrishDry,Guinness Ltd.,4,30,40,12,52,5,30,13,3,0,6,18,1,36,3.228,4.197,3.447,3.353,3.685,2210
+Dry Stout,Stout,IrishDry,Boulevard Brewing Co.,5,30,40,28,78,3,64,30,5,0,3,29,17,93,3.526,3.75,3.438,3.548,3.668,208
+Peg Leg Imperial Stout,Stout,RussianImperial,Heavy Seas Beer,8,50,90,12,75,11,69,54,6,0,10,42,6,99,3.538,3.72,3.508,3.609,3.664,626
+Moo Thunder Stout Farmhouse Ale,Stout,Sweet/Milk,Butternuts Beer & Ale,5,15,25,6,85,3,25,54,5,0,2,12,2,59,3.557,3.674,3.38,3.572,3.663,279
+Blue Fin Stout,Stout,IrishDry,Shipyard Brewing Co.,5,30,40,18,90,8,98,56,13,0,11,57,6,134,3.615,3.929,3.449,3.58,3.628,226
+Dark Starr Stout,Stout,IrishDry,Starr Hill Brewery,4,30,40,18,77,16,68,45,2,1,6,17,6,125,3.601,3.899,3.413,3.523,3.613,173
+Black Hawk Stout,Stout,IrishDry,Mendocino Brewing Company,5,30,40,16,95,8,51,58,11,0,15,23,9,97,3.518,3.705,3.385,3.525,3.598,412
+Guinness Draught Extra Cold,Stout,IrishDry,Guinness Ltd.,4,30,40,14,84,8,51,24,1,1,1,24,0,87,3.303,4.126,3.183,3.232,3.585,183
+Bison Organic Chocolate Stout,Stout,American,Bison Brewing,5,35,60,9,91,12,53,60,9,0,10,18,4,105,3.709,3.759,3.365,3.504,3.516,251
+Chocolate Stout,Stout,American,Harpoon Brewery,6,35,60,14,158,8,49,126,1,0,3,21,6,154,3.874,3.751,3.341,3.536,3.498,207
+Cocoa Loco,Stout,American,Arcadia Brewing Company,7,35,60,5,154,27,71,111,23,0,33,26,14,169,3.626,3.836,3.524,3.547,3.492,247
+Lump Of Coal Dark Holiday Stout,Stout,Foreign/Export,Ridgeway Brewing,8,30,70,10,67,19,51,53,15,0,25,23,5,74,3.387,3.613,3.37,3.436,3.484,305
+Dragon Stout,Stout,Foreign/Export,Desnoes & Geddes Limited,8,30,70,5,59,30,49,101,17,0,41,19,5,69,3.387,3.731,3.406,3.411,3.339,208
+Buffalo Bill's Blueberry Oatmeal Stout,Stout,Oatmeal,Buffalo Bill's Brewery,8,20,40,8,67,19,59,122,17,2,87,52,6,128,3.561,3.603,3.378,3.308,3.322,180
+Fuel Cafe (Coffee Flavored Stout),Stout,American,"Lakefront Brewery, Inc.",6,35,60,23,91,11,98,33,7,0,1,19,10,147,3.396,3.689,3.194,3.208,3.311,355
+Anchor Steam Beer,California Common / Steam Beer,N/A,Anchor Brewing Company,5,35,45,31,35,13,41,60,42,3,41,58,11,77,3.637,3.922,3.826,3.888,4.06,1752
+Oscura,California Common / Steam Beer,N/A,Furthermore Beer,5,35,45,23,53,12,133,49,18,2,11,26,7,173,3.851,3.72,3.821,3.914,3.869,134
+Heady Topper,IPA,NewEngland,The Alchemist,8,50,70,16,42,18,91,40,55,0,76,117,2,30,4.661,4.163,4.405,4.609,4.626,469
+Pliny The Younger,IPA,Imperial,Russian River Brewing Company,10,65,100,23,46,14,73,29,40,0,49,106,4,19,4.724,4.483,4.612,4.725,4.6,610
+Pliny The Elder,IPA,Imperial,Russian River Brewing Company,8,65,100,26,29,9,58,51,49,0,80,85,1,32,4.612,4.389,4.451,4.631,4.59,2527
+Ephraim,IPA,NewEngland,Hill Farmstead Brewery,10,50,70,17,31,14,68,32,49,1,58,91,7,29,4.566,4.304,4.35,4.49,4.434,143
+Abner,IPA,NewEngland,Hill Farmstead Brewery,8,50,70,25,30,8,68,50,79,0,139,88,3,24,4.414,4.182,4.264,4.464,4.432,110
+Abrasive Ale,IPA,Imperial,Surly Brewing Company,9,65,100,23,34,16,78,73,69,0,111,103,7,47,4.501,4.248,4.298,4.447,4.431,563
+Nelson,IPA,American,Alpine Beer Company,7,50,70,26,45,7,60,50,85,2,128,78,13,49,4.437,4.158,4.164,4.358,4.372,418
+Duet,IPA,American,Alpine Beer Company,7,50,70,31,21,7,60,31,56,1,77,91,6,27,4.395,4.203,4.114,4.316,4.367,376
+Blind Pig,IPA,American,Russian River Brewing Company,6,50,70,45,37,7,80,38,69,4,94,140,1,33,4.353,4.188,4.16,4.309,4.36,1141
+Pure Hoppiness,IPA,Imperial,Alpine Beer Company,8,65,100,12,31,15,99,41,43,0,59,126,7,39,4.366,4.217,4.209,4.352,4.35,561
+Furious,IPA,American,Surly Brewing Company,7,50,70,11,24,5,57,45,48,0,54,96,3,61,4.375,4.272,4.201,4.38,4.337,1224
+Dreadnaught IPA,IPA,Imperial,Three Floyds Brewing Co. & Brewpub,10,65,100,18,40,21,45,51,62,2,93,59,0,46,4.46,4.252,4.321,4.457,4.329,1481
+Lunch,IPA,American,Maine Beer Company,7,50,70,26,54,15,64,56,79,0,97,102,5,49,4.366,4.287,4.128,4.311,4.325,183
+Citra Bitter Monk,IPA,Belgian,Anchorage Brewing Company,9,50,80,39,36,13,57,56,138,2,133,74,26,23,4.292,4.31,4.159,4.323,4.314,113
+IPA,IPA,American,AleSmith Brewing Company,7,50,70,19,47,2,76,54,65,1,90,114,2,54,4.298,4.301,4.218,4.335,4.303,949
+Myrcenary Double IPA,IPA,Imperial,Odell Brewing Company,9,65,100,9,50,30,56,37,42,0,71,97,1,25,4.279,4.124,4.128,4.322,4.263,331
+Lagunitas Sucks,IPA,Imperial,Lagunitas Brewing Company,8,65,100,10,34,10,48,53,43,0,56,62,8,39,4.377,3.983,4.086,4.305,4.26,442
+Head Hunter,IPA,American,Fat Heads Brewery & Saloon,8,50,70,25,36,16,71,46,63,0,97,110,6,40,4.348,4.049,4.059,4.304,4.26,102
+Northern Hemisphere Harvest Wet Hop IPA,IPA,American,Sierra Nevada Brewing Co.,7,50,70,13,34,3,68,45,36,1,41,115,5,61,4.094,4.29,4.09,4.201,4.242,1354
+75 Minute IPA,IPA,American,Dogfish Head Brewery,8,50,70,8,54,11,48,88,35,4,39,70,3,77,4.078,4.053,4.131,4.245,4.227,141
+A Little Sumpin' Sumpin' Ale,IPA,American,Lagunitas Brewing Company,8,50,70,15,32,14,58,23,56,1,69,100,2,65,4.208,3.996,4.032,4.216,4.219,850
+Harvest Ale,IPA,American,Founders Brewing Company,8,50,70,18,38,9,75,32,44,0,60,117,3,31,4.24,3.99,4.015,4.18,4.208,674
+Double Jack,IPA,Imperial,Firestone Walker Brewing Co.,10,65,100,22,38,21,53,76,77,0,118,78,3,61,4.29,4.175,4.104,4.247,4.195,698
+Houblon Chouffe Dobbelen IPA Tripel,IPA,Belgian,Brasserie d'Achouffe,9,50,80,38,51,22,82,79,69,1,93,135,36,46,4.112,4.364,4.132,4.265,4.178,1015
+60 Minute IPA,IPA,American,Dogfish Head Brewery,6,50,70,17,26,6,56,14,40,0,44,75,3,24,3.997,3.966,4.007,4.119,4.173,2475
+Celebration Fresh Hop IPA,IPA,American,Sierra Nevada Brewing Co.,7,50,70,19,38,15,66,28,24,0,25,92,5,47,4.082,4.225,4.076,4.19,4.169,3000
+Ruination Double IPA 2.0,IPA,Imperial,Stone Brewing Co.,9,65,100,21,37,25,95,50,55,0,83,135,0,26,4.342,4.179,4.183,4.351,4.162,2704
+Hop Stoopid,IPA,Imperial,Lagunitas Brewing Company,8,65,100,28,30,15,84,42,43,0,56,98,2,36,4.244,4.071,4.055,4.173,4.16,1540
+IPA,IPA,American,SweetWater Brewing Company,6,50,70,25,44,13,75,57,58,1,86,103,12,59,4.072,3.961,3.925,4.054,4.154,662
+90 Minute IPA,IPA,Imperial,Dogfish Head Brewery,9,65,100,3,15,13,44,40,31,1,36,56,5,42,4.214,4.192,4.182,4.326,4.146,3290
+Centennial IPA,IPA,American,Founders Brewing Company,7,50,70,12,28,14,64,30,37,0,47,85,4,44,4.087,4.056,4.019,4.134,4.146,1395
+Flower Power India Pale Ale,IPA,American,Ithaca Beer Company,7,50,70,17,26,14,44,38,38,1,61,75,0,35,4.172,4.041,3.974,4.119,4.145,832
+Dorado,IPA,Imperial,Ballast Point Brewing Company,10,65,100,11,34,18,67,57,72,2,92,89,3,47,4.252,4.146,4.13,4.245,4.143,326
+Titan IPA,IPA,American,Great Divide Brewing Company,7,50,70,20,46,9,78,46,54,0,69,105,6,61,4.063,4.115,4.053,4.158,4.142,1270
+A Little Sumpin' Extra! Ale,IPA,Imperial,Lagunitas Brewing Company,9,65,100,12,39,21,53,48,51,0,67,69,3,40,4.178,4.152,4.048,4.142,4.134,332
+"Smuttynose IPA ""Finest Kind""",IPA,American,Smuttynose Brewing Company,7,50,70,21,27,14,70,39,55,0,67,93,6,38,4.02,4.051,4.057,4.175,4.129,1497
+Perpetual IPA,IPA,Imperial,Tröegs Brewing Company,8,65,100,15,24,18,59,26,31,1,32,84,4,22,4.129,4.153,4.063,4.138,4.119,264
+Jai Alai IPA,IPA,American,Cigar City Brewing,8,50,70,21,34,8,44,35,58,0,73,51,10,33,4.001,4.122,4.045,4.106,4.116,649
+HopDevil,IPA,American,Victory Brewing Company,7,50,70,13,27,5,61,42,26,0,30,89,10,69,3.996,4.093,4.019,4.144,4.115,2302
+Arctic Panzer Wolf,IPA,Imperial,Three Floyds Brewing Co. & Brewpub,9,65,100,15,31,13,53,57,42,0,73,78,7,38,4.192,3.972,4.095,4.173,4.111,475
+West Coast IPA,IPA,Imperial,Green Flash Brewing Co.,8,65,100,19,31,14,97,44,65,0,76,139,9,45,4.257,4.11,4.052,4.198,4.108,1286
+Torpedo Extra IPA,IPA,American,Sierra Nevada Brewing Co.,7,50,70,10,44,11,57,31,37,0,43,107,6,38,4.02,4.171,4.03,4.114,4.104,2029
+Anchor Liberty Ale,IPA,American,Anchor Brewing Company,6,50,70,21,27,7,67,27,51,0,61,85,4,47,3.881,3.974,3.911,4.018,4.101,1417
+Lost Sailor India Pale Ale,IPA,English,Berkshire Brewing Company Inc.,6,35,60,11,32,4,61,52,21,1,25,85,1,51,3.785,3.933,3.88,3.939,4.099,304
+Double Trouble,IPA,Imperial,Founders Brewing Company,9,65,100,18,55,35,64,42,46,0,55,91,4,46,4.242,4.011,4.08,4.219,4.097,1164
+Brutal,IPA,English,Rogue Ales,6,35,60,10,21,7,73,39,36,0,46,86,1,55,3.963,4.018,3.979,4.09,4.096,1039
+Fuller's India Pale Ale,IPA,English,Fuller Smith & Turner PLC,5,35,60,10,31,8,57,28,34,0,33,89,6,53,3.827,3.933,3.854,3.957,4.079,127
+A Little Sumpin' Wild,IPA,Belgian,Lagunitas Brewing Company,9,50,80,16,33,17,53,41,69,0,62,71,9,26,4.095,4.089,3.996,4.102,4.079,677
+2XIPA,IPA,Imperial,Southern Tier Brewing Company,8,65,100,18,31,14,67,42,46,0,45,89,1,35,4.021,3.916,3.956,4.044,4.077,712
+Hercules Double IPA,IPA,Imperial,Great Divide Brewing Company,10,65,100,15,43,24,84,61,59,0,91,119,14,93,4.156,4.187,4.135,4.197,4.056,1378
+Hop Henge,IPA,Imperial,Deschutes Brewery,8,65,100,17,49,23,65,54,89,1,117,92,5,42,4.07,4.175,4.026,4.087,4.053,572
+Maharaja,IPA,Imperial,Avery Brewing Company,10,65,100,13,25,17,59,49,60,1,56,83,5,57,4.249,4.2,4.113,4.216,4.041,1545
+Gouden Carolus Hopsinjoor,IPA,Belgian,Brouwerij Het Anker,8,50,80,11,34,20,53,50,39,0,57,78,22,25,3.995,4.279,4.016,4.081,4.033,289
+Hop In The Dark Cascadian Dark Ale,IPA,Black/CascadianDarkAle,Deschutes Brewery,7,50,70,15,82,17,144,58,64,0,86,133,12,115,4.026,4.147,3.939,4.101,4.033,404
+India Pale Ale,IPA,English,Meantime Brewing Company Limited,8,35,60,16,42,9,62,70,55,1,73,99,11,84,3.848,4.098,3.957,4.016,4.029,312
+Deuchars IPA,IPA,English,The Caledonian Brewing Company,4,35,60,27,53,5,57,20,29,1,31,90,18,59,3.782,3.722,3.735,3.889,4.021,117
+Burton Baton,IPA,Imperial,Dogfish Head Brewery,10,65,100,7,49,19,40,55,39,1,54,57,22,53,4.109,4.148,4.123,4.229,4.021,1434
+Unearthly (Imperial India Pale Ale),IPA,Imperial,Southern Tier Brewing Company,10,65,100,17,46,23,61,64,51,1,74,100,10,50,4.12,4.114,4.079,4.149,4.02,1038
+Double Crooked Tree IPA,IPA,Imperial,Dark Horse Brewing Company,12,65,100,9,42,42,54,58,24,0,33,65,6,74,4.09,3.973,4.074,4.189,4.015,679
+Blackheart,IPA,English,Three Floyds Brewing Co. & Brewpub,9,35,60,18,50,22,80,42,58,1,57,119,15,77,4.025,4.096,4.058,4.133,4.012,285
+Hop Ottin' IPA,IPA,American,Anderson Valley Brewing Company,7,50,70,30,29,12,69,48,69,0,75,99,2,61,4.003,4.111,3.95,4.048,4.008,1045
+Dernière Volonté,IPA,Belgian,Brasserie Dieu Du Ciel,7,50,80,19,35,22,61,55,80,0,85,76,34,32,3.978,4.156,3.966,3.976,3.992,250
+Hop Wallop,IPA,American,Victory Brewing Company,8,50,70,25,30,9,79,33,42,4,47,124,4,47,4.023,4.002,4.024,4.113,3.988,1818
+Crooked Tree IPA,IPA,American,Dark Horse Brewing Company,7,50,70,19,39,8,77,48,62,0,80,116,2,74,3.931,3.823,3.851,3.938,3.975,729
+Green Flash Imperial India Pale Ale,IPA,Imperial,Green Flash Brewing Co.,9,65,100,17,43,23,92,60,57,4,70,128,3,61,4.133,4.12,4,4.037,3.972,812
+Raging Bitch,IPA,Belgian,Flying Dog Brewery,8,50,80,17,40,20,63,39,57,0,70,80,29,40,4.057,4.08,3.965,4.051,3.971,885
+Commodore Perry,IPA,English,Great Lakes Brewing Company,8,35,60,11,29,11,51,47,40,1,45,82,6,42,3.813,3.939,3.932,3.975,3.97,692
+India Pale Ale (IPA),IPA,American,Avery Brewing Company,7,50,70,16,33,8,53,33,49,3,56,94,3,41,3.847,3.921,3.837,3.915,3.941,1067
+Cold Hop British-Style Ale,IPA,English,Boulder Beer / Wilderness Pub,7,35,60,24,60,15,98,90,78,6,98,138,8,98,3.789,3.802,3.792,3.851,3.937,308
+Reserve Special Black Ale,IPA,Black/CascadianDarkAle,Dark Horse Brewing Company,8,50,70,14,63,7,68,44,7,0,13,53,9,101,3.981,4.131,3.937,4.058,3.932,499
+Lake Erie Monster,IPA,Imperial,Great Lakes Brewing Company,10,65,100,20,38,22,80,61,68,1,77,100,4,60,3.893,4.068,4.007,3.985,3.925,486
+Green Flash Le Freak,IPA,Belgian,Green Flash Brewing Co.,9,50,80,32,33,23,75,65,76,2,83,101,24,50,4.06,4.122,3.968,4.086,3.916,506
+Urthel Hop-ItDe Leyerth Brouwerijen (Urthel),IPA,Belgian,De Leyerth Brouwerijen (Urthel),10,50,80,14,39,29,73,64,55,0,71,85,18,34,3.915,4.146,3.944,3.972,3.915,501
+Maximus,IPA,Imperial,Lagunitas Brewing Company,8,65,100,23,36,29,62,82,57,0,99,88,2,47,3.909,3.972,3.872,3.917,3.909,1136
+Hop Strike Black IPA,IPA,Black/CascadianDarkAle,Tommyknocker Brewery,7,50,70,22,75,11,101,44,19,1,23,115,18,126,3.819,4.038,3.792,3.882,3.903,144
+Hopsecutioner,IPA,American,Terrapin Beer Company,7,50,70,17,21,20,78,24,23,2,29,84,2,34,3.821,3.866,3.794,3.813,3.902,538
+471 Small Batch IPA,IPA,Imperial,Breckenridge Brewery,9,65,100,6,19,25,38,45,30,0,46,47,3,36,3.863,3.938,3.895,3.913,3.901,699
+Brew Free Or Die IPA,IPA,American,21st Amendment Brewery,7,50,70,11,32,9,40,25,32,0,44,59,0,30,3.802,3.978,3.772,3.768,3.891,650
+Hoppy Feet,IPA,Black/CascadianDarkAle,Clown Shoes,7,50,70,11,45,14,82,33,9,0,9,87,5,70,3.927,4.124,3.876,3.937,3.886,254
+Yakima Glory,IPA,Black/CascadianDarkAle,Victory Brewing Company,9,50,70,10,54,17,103,52,43,0,61,103,10,85,3.912,4.123,3.946,3.985,3.877,675
+India AleSamuel Smith Old Brewery (Tadcaster),IPA,English,Samuel Smith Old Brewery (Tadcaster),5,35,60,21,30,6,53,42,28,1,33,86,12,53,3.597,3.903,3.749,3.739,3.869,786
+Heavy Seas Black Cannon,IPA,Black/CascadianDarkAle,Heavy Seas Beer,7,50,70,20,94,23,145,71,42,0,70,140,11,121,3.768,4.004,3.841,3.935,3.862,123
+Hoptimum,IPA,Imperial,Sierra Nevada Brewing Co.,11,65,100,17,45,34,79,54,53,1,73,101,1,59,4.051,4.185,3.972,4.042,3.852,556
+Blind Faith,IPA,English,Magic Hat Brewing Company,6,35,60,13,41,11,56,47,69,0,72,95,4,71,3.706,3.849,3.672,3.792,3.846,433
+Pitch Black IPA,IPA,Black/CascadianDarkAle,Widmer Brothers Brewing Company,7,50,70,11,45,12,84,29,18,0,15,93,8,73,3.761,3.966,3.761,3.807,3.845,249
+Simcoe Silly,IPA,Belgian,Kuhnhenn Brewing Company,9,50,80,14,64,36,61,82,76,1,111,73,35,44,3.914,3.852,3.833,3.876,3.843,105
+Hugh Malone,IPA,Belgian,Allagash Brewing Company,7,50,80,34,29,24,88,53,75,1,85,131,26,53,3.851,4.086,3.894,3.882,3.839,221
+IPA,IPA,English,Harpoon Brewery,6,35,60,17,31,13,74,35,31,0,39,110,8,61,3.565,3.692,3.589,3.605,3.829,1141
+ApriHop,IPA,American,Dogfish Head Brewery,7,50,70,20,21,16,70,106,62,1,107,80,6,45,3.78,3.904,3.781,3.795,3.826,1482
+Samuel Adams Latitude 48 IPABoston Beer Company (Samuel Adams),IPA,American,Boston Beer Company (Samuel Adams),6,50,70,20,23,3,53,21,43,1,47,73,4,34,3.648,4.02,3.738,3.703,3.815,812
+ImPaled Ale,IPA,English,"Middle Ages Brewing Co., Ltd.",7,35,60,33,51,17,79,67,58,0,63,102,3,83,3.727,3.967,3.763,3.801,3.808,211
+Smuttynose Homunculus (Big Beer Series),IPA,Belgian,Smuttynose Brewing Company,9,50,80,16,52,27,61,103,78,0,109,82,31,45,3.875,3.828,3.772,3.841,3.802,116
+HopFish IPA,IPA,English,Flying Fish Brewing Company,6,35,60,9,30,5,62,48,29,2,44,104,5,79,3.508,3.717,3.628,3.586,3.773,187
+Bad Elf Winter's Ale,IPA,English,Ridgeway Brewing,6,35,60,24,34,12,64,43,40,1,46,114,25,70,3.612,3.66,3.634,3.664,3.752,228
+Devil Dancer,IPA,Imperial,Founders Brewing Company,12,65,100,16,37,37,76,68,45,1,74,98,3,78,4.09,3.996,3.992,4.015,3.734,1066
+India Pale Ale,IPA,English,"St. George Brewing Company, The",6,35,60,20,34,5,80,48,54,0,58,97,8,61,3.579,3.86,3.794,3.702,3.732,114
+Hopus,IPA,Belgian,Brasserie Lefèbvre SA,8,50,80,9,22,20,39,38,38,0,39,56,21,39,3.595,3.982,3.682,3.673,3.727,110
+Hitachino Nest Japanese Classic Ale,IPA,English,Kiuchi Brewery,7,35,60,18,48,16,64,70,73,0,105,103,27,77,3.804,3.886,3.822,3.854,3.723,202
+Dead Horse IPA,IPA,English,McNeill's Brewery,6,35,60,13,57,26,77,44,44,2,50,107,7,86,3.562,3.695,3.69,3.708,3.721,113
+East India Pale Ale,IPA,English,Brooklyn Brewery,7,35,60,20,33,10,73,28,35,2,36,92,8,53,3.605,3.689,3.623,3.644,3.718,866
+Snow Day Winter Ale,IPA,Black/CascadianDarkAle,New Belgium Brewing,6,50,70,11,51,16,82,48,20,0,19,91,6,78,3.7,4.002,3.642,3.665,3.7,218
+Morimoto Black Obi Soba Ale,IPA,Black/CascadianDarkAle,Rogue Ales,5,50,70,17,59,10,53,47,17,1,16,38,17,112,3.61,3.92,3.627,3.705,3.7,232
+Back In Black,IPA,Black/CascadianDarkAle,21st Amendment Brewery,7,50,70,14,50,7,95,23,19,0,20,92,11,91,3.655,4.024,3.648,3.611,3.697,511
+Snake Dog,IPA,American,Flying Dog Brewery,7,50,70,16,24,8,53,31,61,0,76,73,7,25,3.574,3.741,3.508,3.507,3.62,1060
+Old East India Pale Ale,IPA,English,Sea Dog Brewing Company,6,35,60,16,39,5,79,56,32,0,36,107,6,69,3.377,3.685,3.5,3.473,3.612,130
+IPA,IPA,English,Arcadia Brewing Company,6,35,60,16,48,13,92,45,73,1,90,137,9,90,3.593,3.753,3.532,3.561,3.593,328
+120 Minute IPA,IPA,Imperial,Dogfish Head Brewery,18,65,100,9,43,50,55,89,42,3,58,63,18,60,4.002,4.03,3.893,3.919,3.55,1745
+Gubna,IPA,Imperial,Oskar Blues Grill & Brew,10,65,100,13,33,22,70,52,57,1,81,93,7,53,3.772,3.95,3.807,3.639,3.516,693
+India Pale Ale,IPA,English,St. Peter's Brewery Co Ltd,6,35,60,11,38,12,73,42,38,0,32,108,12,69,3.209,3.606,3.462,3.41,3.473,184
+Hopnotic India Pale Ale,IPA,English,Cricket Hill Brewing Co.,7,35,60,23,56,10,96,50,68,4,91,131,10,60,3.121,3.548,3.387,3.282,3.472,124
+Kennebunkport IPA,IPA,English,Federal Jack's Restaurant & Brew Pub,6,35,60,8,23,11,43,34,16,1,16,62,2,36,2.72,3.405,3.108,2.677,2.884,116
+La Fin Du Monde,Tripel,N/A,Unibroue,9,20,40,14,41,18,12,40,44,2,62,31,53,36,4.232,4.194,4.264,4.396,4.298,2483
+Tripel Karmeliet,Tripel,N/A,Brouwerij Bosteels,8,20,40,18,42,18,17,52,36,1,66,26,23,46,4.147,4.217,4.149,4.278,4.231,1045
+Tripel,Tripel,N/A,Brouwerij St. Bernardus NV,8,20,40,30,44,30,18,80,72,8,94,24,55,59,4.133,4.163,4.224,4.302,4.231,1038
+Damnation Batch 23 (Oak Aged),Tripel,N/A,Russian River Brewing Company,11,20,40,11,30,45,16,64,60,0,66,22,35,29,4.142,4.219,4.206,4.242,4.214,194
+Westmalle Trappist Tripel,Tripel,N/A,Brouwerij Westmalle,10,20,40,13,53,30,26,53,25,0,56,36,37,37,4.196,4.307,4.25,4.309,4.206,1436
+Tripel Ale,Tripel,N/A,Allagash Brewing Company,9,20,40,20,45,29,23,73,57,1,78,46,58,47,4.091,4.16,4.12,4.196,4.129,782
+Triple,Tripel,N/A,Brasserie de l'Abbaye du Val-Dieu,9,20,40,10,36,22,11,89,52,0,77,17,32,40,3.952,4.136,4.059,4.122,4.124,221
+Don De Dieu,Tripel,N/A,Unibroue,9,20,40,23,33,20,12,85,66,2,78,22,36,52,4.054,3.947,4.057,4.163,4.103,1096
+Gouden Carolus Tripel,Tripel,N/A,Brouwerij Het Anker,9,20,40,16,36,22,20,68,45,0,75,42,32,26,4.113,4.153,4.064,4.16,4.092,375
+Tripel (White),Tripel,N/A,Bières de Chimay S.A.,8,20,40,15,40,25,38,62,43,1,57,59,25,33,4.019,4.165,4.059,4.104,4.053,1446
+Trappist Achel 8° Blond,Tripel,N/A,Brouwerij der St. Benedictusabdij de Achelse,8,20,40,21,28,21,26,75,51,0,80,46,44,39,3.946,4.12,4.02,4.067,4.02,351
+Watou Tripel,Tripel,N/A,Brouwerij St. Bernardus NV,8,20,40,16,35,16,15,63,55,1,78,26,54,39,4,4.072,3.993,4.055,4.011,229
+Eau Benite,Tripel,N/A,Unibroue,8,20,40,24,51,40,17,69,83,0,107,35,38,33,3.907,3.94,3.957,3.98,4.01,150
+Dulle Teve (Mad Bitch),Tripel,N/A,Brouwerij De Dolle Brouwers,10,20,40,21,42,38,36,125,104,2,121,59,40,50,4.123,4.182,4.06,4.182,4.005,391
+Agnus Dei (Abbey Pale Ale),Tripel,N/A,Brouwerij Corsendonk,8,20,40,28,30,20,25,72,45,1,51,38,41,51,3.845,3.962,3.914,3.924,4.001,448
+St. Feuillien Triple,Tripel,N/A,Brasserie St. Feuillien,9,20,40,19,30,33,29,62,65,0,61,54,35,44,3.969,4.055,3.925,4.042,3.971,227
+Samuel Adams New World Tripel (Barrel Room Collection)Boston Beer Company (Samuel Adams),Tripel,N/A,Boston Beer Company (Samuel Adams),10,20,40,4,38,25,18,66,36,0,59,23,32,22,3.951,4.098,3.919,3.963,3.951,123
+Affligem Tripel,Tripel,N/A,Brouwerij De Smedt / Brouwerij Affligem,10,20,40,17,32,18,24,105,58,0,84,42,28,49,3.904,4.016,3.938,3.95,3.942,308
+Final Absolution Trippel,Tripel,N/A,Dragonmead Microbrewery,10,20,40,7,32,16,23,71,35,0,51,26,24,33,3.921,3.822,3.918,4,3.88,171
+Trade Winds,Tripel,N/A,The Bruery,8,20,40,25,46,28,15,71,52,0,73,56,65,37,3.918,4.073,3.837,3.937,3.876,245
+Augustijn Ale,Tripel,N/A,Brouwerij Van Steenberge N.V.,8,20,40,20,43,39,19,72,87,0,98,28,47,39,3.891,4.023,3.789,3.895,3.856,409
+La Trappe Tripel (Koningshoeven / Dominus),Tripel,N/A,Bierbrouwerij De Koningshoeven B.V.,8,20,40,19,37,26,28,73,46,2,50,51,32,57,3.816,3.876,3.823,3.882,3.843,399
+Maredsous 10 - Triple,Tripel,N/A,Brouwerij Duvel Moortgat NV,10,20,40,13,34,33,5,69,56,0,71,11,23,24,3.872,4.117,3.879,3.868,3.83,616
+Golden Delicious,Tripel,N/A,Captain Lawrence Brewing Co.,11,20,40,30,45,120,43,154,129,0,148,60,34,91,4.007,3.847,3.861,3.938,3.781,144
+Merry Monks,Tripel,N/A,Weyerbacher Brewing Co.,9,20,40,19,29,44,12,64,50,0,85,15,47,41,3.772,3.693,3.755,3.784,3.74,649
+Kasteel Tripel,Tripel,N/A,Brouwerij Van Honsebrouck N.V.,11,20,40,18,41,41,19,93,57,0,53,40,23,54,3.813,3.763,3.844,3.866,3.737,112
+Golden Monkey,Tripel,N/A,Victory Brewing Company,10,20,40,3,30,26,8,26,10,0,39,14,45,30,3.736,3.678,3.718,3.735,3.669,1520
+Trippel,Tripel,N/A,Green Flash Brewing Co.,10,20,40,22,68,41,37,140,100,2,140,68,56,61,3.709,3.811,3.677,3.66,3.646,206
+Sapient Trip Ale,Tripel,N/A,Dark Horse Brewing Company,10,20,40,13,35,19,20,36,44,4,69,22,27,27,3.766,3.686,3.693,3.695,3.642,282
+Bornem Triple,Tripel,N/A,Brouwerij Van Steenberge N.V.,9,20,40,24,29,18,19,58,52,0,68,24,23,27,3.609,3.876,3.64,3.569,3.603,379
+Abbey Triple,Tripel,N/A,Sprecher Brewing Company,8,20,40,8,22,16,6,79,42,0,57,11,23,39,3.48,3.469,3.48,3.517,3.463,177
+Brother David's Triple Abbey Style Ale,Tripel,N/A,Anderson Valley Brewing Company,10,20,40,15,38,30,22,96,55,0,84,39,37,53,3.509,3.407,3.432,3.418,3.344,318
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
