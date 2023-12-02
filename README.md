@@ -33,7 +33,7 @@ This is logical as most of the top 10 styles are historically brewed as higher A
 <img src="https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/abv_by_rating.png" width="1100" height="500"/>
 
 ### What kinds of beer should be avoided?
-The answer to this is, frankly, none of them. While looking at the top 10 worst-rated beers, even the worst still received an average 3.4/5 rating. While there's certainly room for improvement, nonotable styles have an average rating below this modest figure.
+The answer to this is, frankly, none of them. While looking at the top 10 worst-rated beers, even the worst still received an average 3.4/5 rating. While there's certainly room for improvement, no notable styles have an average rating below this modest figure.
 
 ![](https://github.com/chrisbw3/gulp/blob/b4b457e528d6ef6b2bc29cb542d3b88d5a086ad1/Assets/10_worst_beers.png)
 
@@ -57,3 +57,6 @@ Only include the secondary, "sub" style in second new column.
 The original style column was removed after copy/pasting as values for the new main and sub style columns.
 ## Importing, Querying, Analyzing in SQL
 For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.com/chrisbw3/gulp/tree/d5c409b881a776555d7124ae715693722ccf5d77/Assets).
+
+## Launching the Web Application 
+Using streamlit and other Python libraries, an easy to use web app was create with the purpose of giving quick recommendations to those looking for their next favorite beer.
