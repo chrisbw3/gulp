@@ -26,7 +26,7 @@ Results were visualized using Tableau.
  - What style beers should you avoid buying?
 
 ## Key Findings 🔍
-### Europe dominated when it came down to what beers were most well-received. 🇪🇺
+### Predominately European style beers were most well-received. 🇪🇺
 This may not come as a surprise, given Europe's history with the alcoholic beverage is naturally older than the West. These are styles not commonly seen from the macro-breweries like Anheuser Busch or Coors.
 
 ![](https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/top_10_styles.png)
