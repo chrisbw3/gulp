@@ -59,4 +59,5 @@ The original style column was removed after copy/pasting as values for the new m
 For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.com/chrisbw3/gulp/tree/d5c409b881a776555d7124ae715693722ccf5d77/Assets).
 
 ## Launching the Web Application 
-Gulp was conceptualized at a crossroads between beginning my initial journey in data analytics and trying to implement an easy way for anyone to find good beer. Using streamlit and other Python libraries, an easy to use web app was created with the purpose of giving quick recommendations to those looking for their next favorite beer.
+Gulp was conceptualized at a crossroads between beginning my initial journey in data analytics and trying to implement an easy way for anyone to find good beer. After concluding my findings earlier, I realized that I was left with nearly 2,000 notable beers I had never tried or heard of. Using streamlit and other Python libraries, an easy to use web app was created with the purpose of giving quick recommendations to those looking for their next favorite beer.
+![](https://github.com/chrisbw3/gulp/blob/779ecec9a76355c63dd9c8637dfd6581c8910e4d/Assets/GIF%20Recording%202023-12-02%20at%2011.51.34%20PM.gif)
