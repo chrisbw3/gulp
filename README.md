@@ -32,7 +32,7 @@ This may not come as a surprise, given Europe's history with the alcoholic bever
 ![](https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/top_10_styles.png)
 
 ### There was a correlation between higher ABV and higher reviews.
-This is logical as most of the top 10 styles are historically brewed as higher ABV percentages.
+This is logical as most of the top 10 styles are historically brewed at higher ABV percentages.
 
 <img src="https://github.com/chrisbw3/gulp/blob/a1d9e1c1c0ebc0a4f9425be64f3aa0f068207ea1/Assets/abv_by_rating.png" width="1100" height="500"/>
 
