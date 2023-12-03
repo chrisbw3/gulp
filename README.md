@@ -60,7 +60,7 @@ Only include the secondary, "sub" style in second new column.
 
 The original style column was removed after copy/pasting as values for the new main and sub style columns.
 ## Importing, Querying, Analyzing in SQL 🕵️
-For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.com/chrisbw3/gulp/tree/d5c409b881a776555d7124ae715693722ccf5d77/Assets).
+For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.com/chrisbw3/gulp/blob/e93efa8d3092b3180f315741942809852f300f73/Assets/gulp.sql).
 
 ## Launching the Web Application 🚀
 Gulp was conceptualized at a crossroads between beginning my initial journey in data analytics and trying to implement an easy way for anyone to find good beer. After concluding my findings earlier, I realized that I was left with nearly 2,000 notable beers I had never tried or heard of. Using streamlit and other Python libraries, an easy to use web app was created with the purpose of giving quick recommendations to those looking for their next favorite beer.
