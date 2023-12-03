@@ -4,9 +4,13 @@ This project started as a personal interest to find the highest-rated beers worl
 ### Data Sources
 The data was retrieved from the [Kaggle dataset here](https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set?rvi=1).
 ### Tools Used
-- Excel - Cleaning
-- PostgreSQL - Analysis
-- Tableau - Reporting
+- #### Excel - Cleaning
+- #### PostgreSQL - Analysis
+- #### Tableau - Graph Visualization
+- #### Python
+  - Streamlit
+  - Pandas
+  - Plotly
 
 ### Data Cleaning & Preparation
 Cleaning and preparing the data involved:
@@ -61,3 +65,4 @@ For all SQL queries, refer to ["gulp.sql" in the Assets folder](https://github.c
 ## Launching the Web Application 
 Gulp was conceptualized at a crossroads between beginning my initial journey in data analytics and trying to implement an easy way for anyone to find good beer. After concluding my findings earlier, I realized that I was left with nearly 2,000 notable beers I had never tried or heard of. Using streamlit and other Python libraries, an easy to use web app was created with the purpose of giving quick recommendations to those looking for their next favorite beer.
 ![](https://github.com/chrisbw3/gulp/blob/779ecec9a76355c63dd9c8637dfd6581c8910e4d/Assets/GIF%20Recording%202023-12-02%20at%2011.51.34%20PM.gif)
+Access the web application [here](.
