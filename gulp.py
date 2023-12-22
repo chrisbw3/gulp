@@ -30,7 +30,7 @@ st.write("""Gulp was conceptualized at a crossroads between beginning my initial
          
          """)
 
-excel_file = '/Users/christiangentry/Documents/gulp/gulp_v2/gulp_master.xlsx'
+excel_file = 'https://github.com/chrisbw3/gulp/blob/c481b3d6d49c06ecbc1cbbf507b34b8cca1d2df4/gulp_master.xlsx'
 
 df = pd.read_excel(
     excel_file,
