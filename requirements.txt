@@ -1,3 +1,4 @@
+openpyxl==3.1.2
 folium==0.15.1
 pandas==2.1.4
 streamlit==1.29.0
