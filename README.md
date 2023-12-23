@@ -1,4 +1,8 @@
 # Gulp: Finding What Beers Does the World Enjoy? :beers:
+
+## v2.0 is here
+With API use and adding geospacial visualit=zation, read more about the newest update [here](#v2).
+
 ### Overview
 This project started as a personal interest to find the highest-rated beers worldwide. The goal was to analyze what beers are the highest rated regarding several attributes, such as: style, abv, and reviews based on a 1-5 scale system. Finally, an interactive dashboard was created for users to find recommendations for what beer they should shop for next.
 ### Data Sources 📊
@@ -20,7 +24,7 @@ Cleaning and preparing the data involved:
 ### Visualization 🖼️
 Results were visualized using Tableau.
 
-## What Questions Need Answered? ❓
+## What Questions Need Answered? :thought_balloon:
  - What styles of beer are most popular?
  - Do consumers enjoy higher abv compared to lower abv?
  - What style beers should you avoid buying?
@@ -67,3 +71,5 @@ Gulp was conceptualized at a crossroads between beginning my initial journey in 
 ![](https://github.com/chrisbw3/gulp/blob/779ecec9a76355c63dd9c8637dfd6581c8910e4d/Assets/GIF%20Recording%202023-12-02%20at%2011.51.34%20PM.gif)
 
 ### Access the web application [here](https://gulpapp.streamlit.app).
+
+## v2
