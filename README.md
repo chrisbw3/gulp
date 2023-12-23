@@ -1,7 +1,7 @@
 # Gulp: Finding What Beers Does the World Enjoy? :beers:
 
-## v2.0 is here
-With API use and adding geospacial visualit=zation, read more about the newest update [here](#v2).
+## 🎉v2.0 is here🎉
+With API use and adding geospacial visualization, read more about the newest update below.
 
 ### Overview
 This project started as a personal interest to find the highest-rated beers worldwide. The goal was to analyze what beers are the highest rated regarding several attributes, such as: style, abv, and reviews based on a 1-5 scale system. Finally, an interactive dashboard was created for users to find recommendations for what beer they should shop for next.
@@ -72,4 +72,11 @@ Gulp was conceptualized at a crossroads between beginning my initial journey in 
 
 ### Access the web application [here](https://gulpapp.streamlit.app).
 
-## v2
+## v2 📣
+A dynamic Folium map was added to provide geospatial vizualization to help aid the user as a reference for what may be local to their area, and to simply establish an index of where the breweries are located at.
+
+#### Google Geocode API
+Google's Geocode API was implemented to first assign ZIP codes for each brewery name. After establishing the ZIP codes, coordinates were established with the API based on the ZIP codes. See [get_adress](https://github.com/chrisbw3/gulp/blob/bcd62782c599ed6d08599c05c4d23b3122d577ff/get_address2.py) and [get_coordinates](https://github.com/chrisbw3/gulp/blob/bcd62782c599ed6d08599c05c4d23b3122d577ff/reverse_geocode.py).
+After obtaining the coordinates, the dataset was updated and the folium map was created.
+
+![](https://github.com/chrisbw3/gulp/blob/bcd62782c599ed6d08599c05c4d23b3122d577ff/Assets/map_screenshot.jpeg)
